@@ -1,6 +1,6 @@
 from aiogram.utils.keyboard import ReplyKeyboardMarkup, KeyboardButton
 
-
+#as
 def main_keyboard():
     button = KeyboardButton(text="🏢 Biz haqimizda")
     button2 = KeyboardButton(text="💼 Ariza qoldiring")
