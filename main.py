@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher
 from handler import setup_message_router
 from keyboard.default_keyboard import main_keyboard
 
-API_TOKEN = "8036073629:AAGiu9Gsk9ishjvdY4sHVfvR4BZwrb8Fg1Y"
+API_TOKEN = "8341538323:AAHgwMSm72rPvsge7jUltONaG2Sy1TLxuSc"
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
 
